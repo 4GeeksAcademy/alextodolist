@@ -1,3 +1,4 @@
+
 import React from "react";
 
 //include images into your bundle
@@ -24,3 +25,4 @@ const Home = () => {
 };
 
 export default Home;
+
